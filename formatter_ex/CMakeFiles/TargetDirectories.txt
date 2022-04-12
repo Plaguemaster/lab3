@@ -1,3 +1,0 @@
-//home/maxim/Рабочий стол/lab/lab3/formatter_ex/CMakeFiles/rebuild_cache.dir
-//home/maxim/Рабочий стол/lab/lab3/formatter_ex/CMakeFiles/edit_cache.dir
-//home/maxim/Рабочий стол/lab/lab3/formatter_ex/CMakeFiles/formatter_ex.dir
