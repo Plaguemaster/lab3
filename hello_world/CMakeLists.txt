@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.4)
+project(hello_world)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_library(hello_world  STATIC ${CMAKE_CURRENT_SOURCE_DIR}/formmater_helloworld.cpp)
+target_link_libraries(hello_world)
