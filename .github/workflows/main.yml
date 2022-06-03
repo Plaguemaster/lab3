@@ -3,9 +3,8 @@ name: Formatter_INC
 
 
 on:
-  push:
-    branches:
-      - main
+  [push]
+  
 
 jobs:
   my_test_linux:
